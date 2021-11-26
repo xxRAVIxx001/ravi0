@@ -1,0 +1,27 @@
+body
+{background-color: aquamarine;
+background-size: cover;
+background-blend-mode: darken;
+backface-visibility: inherit;}
+h1
+{color: rgb(0, 162, 255); font-size: 60 ;font-weight: 1500; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h3{font-family:'Courier New', Courier, monospace;display: block;
+font-weight: 800;
+font-size: 40;
+color:gold;}
+table{background-color:rgba(0, 0, 5,0.3);text-decoration: rgb(red, green, blue);
+    font: icon;border-top-style: solid;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-style:double;
+    text-align: center;
+    text-decoration: underline white;
+
+    border-width: 1px;
+    border-color: rgb(221, 224, 231) ;
+    height: 600;
+    cursor: pointer;
+    width: 800;}
+.box input [type="radio"]{
+    color: brown;
+}
